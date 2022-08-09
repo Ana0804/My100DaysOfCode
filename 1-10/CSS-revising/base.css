@@ -1,0 +1,41 @@
+html{
+    background-color: blueviolet;
+}
+
+body{
+    padding: 0 20px 20px 20px;
+    border: 5px solid red;
+}
+
+p {
+    color:red;
+}
+
+ul{
+    background-color: aqua;
+}
+
+img{
+    height: 550px;
+    width: 670px;
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+/* TEXT-SHADOW: La première valeur correspond au décalage horizontal, exprimé en pixels, de l'ombre par rapport au texte. Autrement dit, plus la valeur est élevée, plus l'ombre porte loin. Une valeur négative déplace l'ombre vers la gauche.
+La deuxième valeur correspond au décalage vertical entre l'ombre et le texte. Autrement dit, plus la valeur est élevée, plus l'ombre va vers le bas. Une valeur négative déplace l'ombre vers le haut.
+La troisième valeur correspond au rayon de flou pour l'ombre, exprimé en pixel. Autrement dit, plus la valeur est élevée, plus l'ombre sera floue.
+La quatrième valeur définit la couleur utilisée pour l'ombre. */
+
+h2{
+    color: yellowgreen;
+    font-size: 50px;
+}
+
