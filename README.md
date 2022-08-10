@@ -12,7 +12,7 @@ J'ai décidé de créer la base html d'une page "à propos de moi" sur laquelle 
 J'ai également installé l'application Mimo Code sur laquelle je m'entraînerais en parallèle au challenge.
 
 ## JOUR 2 : CSS
-Aujourd'hui j'ai revu les bases du CSS. J'ai repris la page HTML que j'avais commencé la veille et j'ai intégré du style pour rendre ma page plus jolie. J'ai revu le positionnement du texte, le style du texte, les sortes de display et les bordures. Pas très impressionnant me direz vous mais comme je l'ai dit plutôt je souhaite repartir sur de bonnes bases et donc revoir les éléments qui pourraient paraître simple et sans grand intérêt. Demain je continuerais sur ma lancée. Peut-être travailler plus sur le positionnement des images et les styles que je peux leur apporter. Comme hier je me suis basé sur la documentation de MDN et de W3School.
+Aujourd'hui j'ai revu les bases du CSS. J'ai repris la page HTML que j'avais commencé la veille et j'ai intégré du style pour rendre ma page plus jolie. J'ai revu le positionnement du texte, le style du texte, les sortes de display et les bordures. Pas très impressionnant me direz vous mais comme je l'ai dit plutôt je souhaite repartir sur de bonnes bases et donc revoir les éléments qui pourraient paraître simple et sans grand intérêt. Demain je continuerais sur ma lancée. Peut-être travailler plus sur le positionnement des images et les styles que je peux leur apporter. Comme hier je me suis basée sur la documentation de MDN et de W3School.
 
 ## JOUR 3 : CSS
 
