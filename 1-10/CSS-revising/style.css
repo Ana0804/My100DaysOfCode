@@ -4,15 +4,18 @@ body{
     font-family: 'Montserrat', sans-serif;
     padding: 0 20px 20px 20px;
     width: auto;
-    background-color: whitesmoke;
+    background-image: url(../../img/illustrations/gradiant.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
     border: 2px solid red;
 }
 
-img{
+.software{
     width: 600px;
     display: block;
-    margin: 0 auto;
-    border-radius: 20px;
+    margin: 150px auto;
+    border-radius: 75px;
 }
 
 h1{
@@ -45,4 +48,30 @@ ul, ol{
 .whoiam, .infoterms, .languages{
     border: 3px solid blue;
     margin: 50px 0 50px 0;
+}
+
+.divflag {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.drapeau{
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+    opacity: 0.85;
+    margin: 50px 0 50px 0;
+}
+
+.divinfo{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.logoinfo{
+    width: 120px;
+    height: 130px;
 }

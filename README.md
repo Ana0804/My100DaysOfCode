@@ -13,3 +13,10 @@ J'ai également installé l'application Mimo Code sur laquelle je m'entraînerai
 
 ## JOUR 2 : CSS
 Aujourd'hui j'ai revu les bases du CSS. J'ai repris la page HTML que j'avais commencé la veille et j'ai intégré du style pour rendre ma page plus jolie. J'ai revu le positionnement du texte, le style du texte, les sortes de display et les bordures. Pas très impressionnant me direz vous mais comme je l'ai dit plutôt je souhaite repartir sur de bonnes bases et donc revoir les éléments qui pourraient paraître simple et sans grand intérêt. Demain je continuerais sur ma lancée. Peut-être travailler plus sur le positionnement des images et les styles que je peux leur apporter. Comme hier je me suis basé sur la documentation de MDN et de W3School.
+
+## JOUR 3 : CSS
+
+Pour ce troisième jour de challenge j’ai travaillé sur le flex. J’ai revu le positionnement des éléments avec Flexbox Froggy. J’ai été plutôt fière car la première fois que j’avais essayé (il y a 6 mois de cela) je n’avais pas réussi à aller au-dessus du niveau 15. Aujourd’hui j’ai réussi à finir sans grande difficulté. Une petite victoire!
+J’ai aussi revu un peu les images de fond, j’ai créé rapidement un dégradé que j’ai ensuite intégré à ma page. 
+J’ai décidé de remplacer les listes que j’avais fait par des images pour travailler le flex que je venais de voir. 
+Demain je vais travailler le grid pour les logos des langages informatiques (j’aimerais faire en sorte d’équilibrer deux rangées -donc 4 et 4 logos). 
