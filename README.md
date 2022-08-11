@@ -20,3 +20,7 @@ Pour ce troisième jour de challenge j’ai travaillé sur le flex. J’ai revu 
 J’ai aussi revu un peu les images de fond, j’ai créé rapidement un dégradé que j’ai ensuite intégré à ma page. 
 J’ai décidé de remplacer les listes que j’avais fait par des images pour travailler le flex que je venais de voir. 
 Demain je vais travailler le grid pour les logos des langages informatiques (j’aimerais faire en sorte d’équilibrer deux rangées -donc 4 et 4 logos). 
+
+## JOUR 4 : CSS
+
+Aujourd'hui, j'ai revu les bases des grilles CSS (aussi appelées grid). J'ai eu du mal à me remettre dedans, cette piqure de rappel était donc nécessaire. J'ai lu en détails la documentation de CSS-tricks, les examples m'ont bien aidé pour réussir ce que je souhaitais faire hier : faire en sorte que les logos des langages informatiques se retrouvent sur deux lignes différentes tout en restant équilibré (4 et 4 logos). J'ai également revu un peu les paddings de ma page. Je n'ai pas encore décidé de ce que je vais faire demain. Peut-être commencer la partie Bootstrap que je souhaitais revoir un peu. Je comencerais sans doute une nouvelle page.
