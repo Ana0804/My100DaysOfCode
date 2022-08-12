@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+
+nav{
+   opacity: 0.8;
+   background-color: green;
+   height: 100px;
+}
+
+.carousel{
+    height: 100px;
+}
+

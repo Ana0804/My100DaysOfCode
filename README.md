@@ -24,3 +24,7 @@ Demain je vais travailler le grid pour les logos des langages informatiques (j�
 ## JOUR 4 : CSS
 
 Aujourd'hui, j'ai revu les bases des grilles CSS (aussi appelées grid). J'ai eu du mal à me remettre dedans, cette piqure de rappel était donc nécessaire. J'ai lu en détails la documentation de CSS-tricks, les examples m'ont bien aidé pour réussir ce que je souhaitais faire hier : faire en sorte que les logos des langages informatiques se retrouvent sur deux lignes différentes tout en restant équilibré (4 et 4 logos). Je me suis exercée sur Grid Garden. J'ai également revu un peu les paddings de ma page. Je n'ai pas encore décidé de ce que je vais faire demain. Peut-être commencer la partie Bootstrap que je souhaitais revoir un peu. Je comencerais sans doute une nouvelle page.
+
+## JOUR 5 : BOOTSTRAP
+
+Pas vraiment productive aujourd’hui… J’ai passé environ une heure devant la documentation de bootstrap à me demander ce que j’allais faire. Je dois avouer que je n’avais pas la tête à coder… Cependant j’ai fait en sorte de fixer les bases de ma nouvelle page, une barre de navigation, un carrousel et une card pour le moment. Je verrais pour la mise en page demain.
