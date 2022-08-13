@@ -1,14 +1,14 @@
 html{
-    background-color: black;
+    background-image: url(../../img/illustrations/gradient1.png);
 }
 
 nav{
-   opacity: 0.8;
-   background-color: green;
+   background-color: #ecd4dc;
    height: 100px;
 }
 
-.carousel{
-    height: 100px;
+.carousel img{
+    height: 600px;
+    width: 300px;
 }
 

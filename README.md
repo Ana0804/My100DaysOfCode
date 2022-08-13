@@ -28,3 +28,8 @@ Aujourd'hui, j'ai revu les bases des grilles CSS (aussi appelées grid). J'ai eu
 ## JOUR 5 : BOOTSTRAP
 
 Pas vraiment productive aujourd’hui… J’ai passé environ une heure devant la documentation de bootstrap à me demander ce que j’allais faire. Je dois avouer que je n’avais pas la tête à coder… Cependant j’ai fait en sorte de fixer les bases de ma nouvelle page, une barre de navigation, un carrousel et une card pour le moment. Je verrais pour la mise en page demain.
+
+## JOUR 6 : BOOTSTRAP
+
+Aujourd'hui, j'ai travaillé un peu la mise en page des éléments Bootstrap que j'avais choisi hier. J'ai changé le fond, mis des images pour le carousel et centrer le texte de la card. 
+A côté de ça, j'ai travailler sur la maquette d'une idée de portfolio. J'ai imaginer l'interface graphique sur ordinateur et sur téléphone. J'essaierai de le mettre en place durant mon challenge.
