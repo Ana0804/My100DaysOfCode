@@ -37,7 +37,12 @@ A côté de ça, j'ai travaillé sur la maquette d'une idée de portfolio. J'ai 
 ## JOUR 7 : BOOTSTRAP
 
 Aujourd’hui je n’ai pas beaucoup travaillé sur ma page, j’ai fait quelques modifications (couleurs, margins, bordures). 
-
 J’ai un peu plus travaillé sur l’idée de mon portfolio, je n’ai pas encore décidé s’il me plaisait ou non. 
-
 Je pense que demain je vais faire en sorte de reproduire la première page du portfolio, toujours avec Bootstrap.
+
+## JOUR 8 : BOOTSTRAP
+
+On ne lâche rien!
+Aujourd’hui, comme indiqué hier, j’ai reproduit la première page de mon idée de portfolio (que j’avais créé sur Figma) avec Bootstrap. Pour le moment ce n’est qu’une page statique mais j’ajouterais des propriétés plus tard.
+En créant cette page j’ai également eu l’occasion de revoir les positions (relatives ou absolues) afin que la flèche en bas à droite se situe bien là où je voulais. 
+Demain je pense que je vais travailler le responsive de cette page. 

@@ -1,0 +1,44 @@
+@import url('http://fonts.cdnfonts.com/css/plasto-trial');
+
+body{
+    background-color: #F5EBE0;
+    font-family: 'Plasto Trial', sans-serif;
+    position: relative;
+}
+
+.navbar{
+    background-color: #E3D5CA;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+}
+
+.nav-link{
+    color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.col img{
+    width: 500px;
+    border-radius: 50px
+}
+
+#about{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+#div-about{
+    margin-top: 10%;
+}
+
+#arrow{
+    width: 100px;
+    position: absolute;
+    right: 60px;
+}
