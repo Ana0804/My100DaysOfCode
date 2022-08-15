@@ -1,14 +1,28 @@
-html{
+body{
     background-image: url(../../img/illustrations/gradient1.png);
 }
 
 nav{
-   background-color: #ecd4dc;
    height: 100px;
 }
+
+.navbar-nav{
+    border: 1px solid grey;
+    border-radius: 25px;
+    font-size: larger;
+}
+
+
 
 .carousel img{
     height: 600px;
     width: 300px;
 }
 
+.carousel{
+    margin: 50px 100px 50px 100px;
+}
+
+.card{
+    margin: 50px 100px 50px 100px;
+}

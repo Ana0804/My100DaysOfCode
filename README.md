@@ -32,4 +32,8 @@ Pas vraiment productive aujourd’hui… J’ai passé environ une heure devant 
 ## JOUR 6 : BOOTSTRAP
 
 Aujourd'hui, j'ai travaillé un peu la mise en page des éléments Bootstrap que j'avais choisi hier. J'ai changé le fond, mis des images pour le carousel et centrer le texte de la card. 
-A côté de ça, j'ai travailler sur la maquette d'une idée de portfolio. J'ai imaginer l'interface graphique sur ordinateur et sur téléphone. J'essaierai de le mettre en place durant mon challenge.
+A côté de ça, j'ai travaillé sur la maquette d'une idée de portfolio. J'ai imaginé l'interface graphique sur ordinateur et sur téléphone. J'essaierai de le mettre en place durant mon challenge.
+
+## JOUR 7 : BOOTSTRAP
+
+
