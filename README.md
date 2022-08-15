@@ -36,4 +36,8 @@ A côté de ça, j'ai travaillé sur la maquette d'une idée de portfolio. J'ai 
 
 ## JOUR 7 : BOOTSTRAP
 
+Aujourd’hui je n’ai pas beaucoup travaillé sur ma page, j’ai fait quelques modifications (couleurs, margins, bordures). 
 
+J’ai un peu plus travaillé sur l’idée de mon portfolio, je n’ai pas encore décidé s’il me plaisait ou non. 
+
+Je pense que demain je vais faire en sorte de reproduire la première page du portfolio, toujours avec Bootstrap.
