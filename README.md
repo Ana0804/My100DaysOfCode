@@ -46,3 +46,7 @@ On ne lâche rien!
 Aujourd’hui, comme indiqué hier, j’ai reproduit la première page de mon idée de portfolio (que j’avais créé sur Figma) avec Bootstrap. Pour le moment ce n’est qu’une page statique mais j’ajouterais des propriétés plus tard.
 En créant cette page j’ai également eu l’occasion de revoir les positions (relatives ou absolues) afin que la flèche en bas à droite se situe bien là où je voulais. 
 Demain je pense que je vais travailler le responsive de cette page. 
+
+## JOUR 9 : BOOTSTRAP & RESPONSIVE
+
+Aujourd'hui j'ai lu la documentation sur les breakpoints de Bootstrap et les media queries. Je n'ai pas encore réussi à rendre totalement ma page adaptable. J'avais déjà un peu de mal pendant ma formation, un petit rappel n'est pas inutile. Je continuerais à me documenter demain et j'essaierais de rendre la page entièrement responsive. 

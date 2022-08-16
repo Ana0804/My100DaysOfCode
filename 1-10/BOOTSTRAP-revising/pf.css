@@ -21,11 +21,6 @@ body{
     margin-right: 40px;
 }
 
-.col img{
-    width: 500px;
-    border-radius: 50px
-}
-
 #about{
     display: flex;
     flex-wrap: wrap;
@@ -34,7 +29,31 @@ body{
 }
 
 #div-about{
-    margin-top: 10%;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+#div-about p{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+
+#div-about img{
+    width: 50%;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
 
 #arrow{
