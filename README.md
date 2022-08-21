@@ -50,3 +50,16 @@ Demain je pense que je vais travailler le responsive de cette page.
 ## JOUR 9 : BOOTSTRAP & RESPONSIVE
 
 Aujourd'hui j'ai lu la documentation sur les breakpoints de Bootstrap et les media queries. Je n'ai pas encore réussi à rendre totalement ma page adaptable. J'avais déjà un peu de mal pendant ma formation, un petit rappel n'est pas inutile. Je continuerais à me documenter demain et j'essaierais de rendre la page entièrement responsive. 
+
+## JOUR 10 : BOOTSTRAP & RESPONSIVE
+
+Aujourd’hui je dois avouer que je n’ai pas beaucoup avancé, par manque de temps et à cause d’une petite baisse de motivation. Demain selon mon programme (pas encore final) je commence à revoir les bases de JavaScript. Ça va être une partie plus délicate car lors de ma formation j’étais fâchée avec le JS… j’espère que ça ira mieux en reprenant tout depuis le début!
+
+## JOUR 11 : JAVASCRIPT
+
+## JOUR 12 : JAVASCRIPT
+
+## JOUR 13 : JAVASCRIPT
+
+## JOUR 14 : JAVASCRIPT
+
