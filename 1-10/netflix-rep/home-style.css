@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+}
+
+/* NAV */
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand img{
+    height: 80px;
+}
+
+#home{
+    font-weight: bold;
+}
+
+#icon{
+    height: 50px;
+    border-radius: 5px;
+}
+
+.right-nav i{
+    font-size: 20px;
+    display: flex;
+}
+
+.right-nav ul{
+    align-items: center;
+}
+/* NAV */
+
+/* MAIN */
+.cat{
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.cat h1{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pic-pic{
+    height: 200px;
+    margin-right: 10px;
+}
+/* MAIN */
