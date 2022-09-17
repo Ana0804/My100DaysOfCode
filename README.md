@@ -57,4 +57,9 @@ Ayant eu besoin de prendre un peu de temps pour moi suite à quelques problèmes
 Aujourd’hui pour me remettre dans le bain j’ai reproduit une réplique de la plateforme de streaming Netflix sur laquelle je vais me baser pour travailler mon JavaScript. 
 Je commence dès demain à intégrer les premières fonctionnalités.
 
+## JOUR 11 : JAVASCRIPT
+
+Aujourd’hui j'ai repris les bases de JavaScript avec, avant tout, un peu de lecture puis de la pratique!
+Plusieurs problèmes sont parvenus pendant la mise en pratique dont le fait d’appeler les éléments en JS par leur classe ou leur tagname, je n’arrivais a faire changer les éléments qu’avec un id. Je vais me pencher dessus en priorité demain que je comprenne par moi-même ce qu’il manque dans mon code! 
+En tout cas ça fait du bien de se remettre à coder! 
 
