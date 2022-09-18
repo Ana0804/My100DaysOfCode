@@ -63,3 +63,6 @@ Aujourd’hui j'ai repris les bases de JavaScript avec, avant tout, un peu de le
 Plusieurs problèmes sont parvenus pendant la mise en pratique dont le fait d’appeler les éléments en JS par leur classe ou leur tagname, je n’arrivais a faire changer les éléments qu’avec un id. Je vais me pencher dessus en priorité demain que je comprenne par moi-même ce qu’il manque dans mon code! 
 En tout cas ça fait du bien de se remettre à coder! 
 
+## JOUR 12 : JAVASCRIPT
+
+Aujourd'hui, étant un peu malade, j'ai eu du mal à me concentrer. J'ai continuer à lire des fiches de cours puis je me suis mise au code. L'objectif du jour était de comprendre pourquoi je n'arrivais pas à modifier l'élément que je voulais en l'appelant par sa classe ou son tagname. J'ai compris qu'il était préférable d'utiliser le query selector dans ces cas-là. Demain je vais devoir faire en sorte que chaque images réagissent lors du clique, ce soir je suis trop fatiguée pour trop réféléchir.

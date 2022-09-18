@@ -1,5 +1,5 @@
 
 
 function onClick() {
-    document.getElementById("test").style.border = "solid 2px red";
+    document.querySelector('img.pic-pic').style.border = "solid 2px red";
 }
