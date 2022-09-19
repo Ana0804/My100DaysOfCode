@@ -66,3 +66,7 @@ En tout cas ça fait du bien de se remettre à coder!
 ## JOUR 12 : JAVASCRIPT
 
 Aujourd'hui, étant un peu malade, j'ai eu du mal à me concentrer. J'ai continuer à lire des fiches de cours puis je me suis mise au code. L'objectif du jour était de comprendre pourquoi je n'arrivais pas à modifier l'élément que je voulais en l'appelant par sa classe ou son tagname. J'ai compris qu'il était préférable d'utiliser le query selector dans ces cas-là. Demain je vais devoir faire en sorte que chaque images réagissent lors du clique, ce soir je suis trop fatiguée pour trop réféléchir.
+
+## JOUR 13 : JAVASCRIPT
+
+Aujourd'hui je n'ai pas vraiment coder. Cependant, j'ai fait pas mal de recherche et j'ai continué de lire mes fiches de cours. J'ai compris ce que je devais faire pour que chaque images se modifie. Il faut que je boucle sur les éléments pour que la modification que je souhaite apporter s'applique à chacun. Petit problèmes, je ne maîtrise pas du tout les boucles c'est pourquoi mon travail d'aujourd'hui c'est résumé à des recherches et des tentatives de compréhension de chaque boucles. Je n'ai pas encore trouvé la boucle que je vais devoir utiliser mais j'ai peut-être une idée (je dirais la boucle for). Je me renseignerais davantage demain et tenterais des nouvelles choses! Après tout je suis là pour apprendre tout en m'amusant (si c'est possible!)
