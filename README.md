@@ -74,3 +74,7 @@ Aujourd'hui je n'ai pas vraiment coder. Cependant, j'ai fait pas mal de recherch
 ## JOUR 14 : JAVASCRIPT
 
 Mon travail d'aujourd'hui s'est résumé à des tests, beaucoup de test. Je n'ai toujours pas bien compris les boucles et si cela me bloque trop longtemps je changerais sans doute d'idée, je ne veux pas prendre trop de retard sur mon planning. Je vais essayer de réussir à faire ce que je veux avant samedi. Si samedi je n'ai toujours pas réussi je passe à la suite! 
+
+## JOUR 15 : FIGMA
+
+Aujourd'hui n'étant pas motivée pour faire du JavaScript j'ai travaillé un peu sur Figma. Je me suis amusée à créer le design de la première page d'un site ecommerce. Bon je n'ai pas vraiment de connaissance en terme de design pour le moment (j'ai hâte de commencer les cours pour en apprendre plus à ce niveau). 
