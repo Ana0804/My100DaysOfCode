@@ -78,3 +78,7 @@ Mon travail d'aujourd'hui s'est résumé à des tests, beaucoup de test. Je n'ai
 ## JOUR 15 : FIGMA
 
 Aujourd'hui n'étant pas motivée pour faire du JavaScript j'ai travaillé un peu sur Figma. Je me suis amusée à créer le design de la première page d'un site ecommerce. Bon je n'ai pas vraiment de connaissance en terme de design pour le moment (j'ai hâte de commencer les cours pour en apprendre plus à ce niveau). 
+
+## JOUR 16 : FIGMA
+
+Aujourd'hui, j'ai continué à travailler sur le design du site ecommerce commencé hier. Je teste certaines choses tout en apprenant à bien utiliser Figma qui sera sans doute un outils très utile par la suite.
