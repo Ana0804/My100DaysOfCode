@@ -82,3 +82,6 @@ Aujourd'hui n'étant pas motivée pour faire du JavaScript j'ai travaillé un pe
 ## JOUR 16 : FIGMA
 
 Aujourd'hui, j'ai continué à travailler sur le design du site ecommerce commencé hier. Je teste certaines choses tout en apprenant à bien utiliser Figma qui sera sans doute un outils très utile par la suite.
+
+## JOUR 17 : PHP
+Aujourd’hui j’ai décidé de me remettre doucement mais sûrement au PHP. Je revois la base en m’intéressant au commencement de ce langage et à son créateur. Je trouve ça bien d’avoir une vue d’ensemble sur comment le langage a évolué au fil du temps. 
