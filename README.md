@@ -85,3 +85,8 @@ Aujourd'hui, j'ai continué à travailler sur le design du site ecommerce commen
 
 ## JOUR 17 : PHP
 Aujourd’hui j’ai décidé de me remettre doucement mais sûrement au PHP. Je revois la base en m’intéressant au commencement de ce langage et à son créateur. Je trouve ça bien d’avoir une vue d’ensemble sur comment le langage a évolué au fil du temps. 
+
+## JOUR 18 : PHP
+Aujourd’hui j’ai continuer à travailler sur PHP et sur les bases du langage.
+J’ai également essayé de cloner sur mon nouvel ordi mon projet de formation que j’avais réalisé en Symfony mais impossible de le faire fonctionner pour le moment. De plus les méthodes Symfony ne sont pas reconnue, ça va me prendre plus de temps que je le pensais...
+J’essaierai de voir si je peux réussir à debugger mon projet tout en continuant à en apprendre davantage sur l’histoire de PHP. 
