@@ -90,3 +90,7 @@ Aujourd’hui j’ai décidé de me remettre doucement mais sûrement au PHP. Je
 Aujourd’hui j’ai continuer à travailler sur PHP et sur les bases du langage.
 J’ai également essayé de cloner sur mon nouvel ordi mon projet de formation que j’avais réalisé en Symfony mais impossible de le faire fonctionner pour le moment. De plus les méthodes Symfony ne sont pas reconnue, ça va me prendre plus de temps que je le pensais...
 J’essaierai de voir si je peux réussir à debugger mon projet tout en continuant à en apprendre davantage sur l’histoire de PHP. 
+
+## JOUR 19 : PHP
+Aujourd’hui j’ai repris un peu PHP en travaillant sur les algorithmes et les boucles. Je me suis pas mal documenté et je commence à reprendre mes marques dans ce langage, c’est cool!
+Je continuerais un peu demain tout en me préparant pour ma première semaine à l’école! Un peu stressé mais bon, j’ai quand même hâte d’y être! 
