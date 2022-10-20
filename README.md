@@ -97,3 +97,8 @@ Je continuerais un peu demain tout en me préparant pour ma première semaine à
 
 ## JOUR 20 : PHP
 Aujourd'hui, j'ai continué à travailler l'algorithmie de PHP grâce à CodinGame. Je me suis aidée de la documentation officielle de PHP quand je bloquais. Maintenant, je sais qu'il faut que je revoie les booléens car c'est là où j'ai eu le plus de mal. Je reverrais ça demain.
+
+
+## JOUR 21 : PHP
+Aujourd’hui petite session pour réviser un peu les boucles php, j’attends les cours dessus avec impatience vu que j’ai quelques problèmes à vraiment les assimiler! 
+J’ai aussi revu un peu le code de mon site pour trouver une solution au fait que les méthodes Symfony ne sont pas reconnues, j’essaierais de voir ça ce week-end à tête reposée (et oui le client Symfony est bien installé, j’ai vérifié).
