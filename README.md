@@ -96,5 +96,4 @@ Aujourd’hui j’ai repris un peu PHP en travaillant sur les algorithmes et les
 Je continuerais un peu demain tout en me préparant pour ma première semaine à l’école! Un peu stressé mais bon, j’ai quand même hâte d’y être! 
 
 ## JOUR 20 : PHP
-Aujourd'hui, j'ai continué à travailler l'algorithmie de PHP grâce à CodinGame. Je me suis aidée de la documentation officielle de PHP quand je bloquais. Maintenant, je sais qu'il faut que je revoie les booléens car c'est là où j'ai eu le plus de mal. 
-Je reverrais ça demain.
+Aujourd'hui, j'ai continué à travailler l'algorithmie de PHP grâce à CodinGame. Je me suis aidée de la documentation officielle de PHP quand je bloquais. Maintenant, je sais qu'il faut que je revoie les booléens car c'est là où j'ai eu le plus de mal. Je reverrais ça demain.
