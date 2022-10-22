@@ -102,3 +102,10 @@ Aujourd'hui, j'ai continué à travailler l'algorithmie de PHP grâce à CodinGa
 ## JOUR 21 : PHP
 Aujourd’hui petite session pour réviser un peu les boucles php, j’attends les cours dessus avec impatience vu que j’ai quelques problèmes à vraiment les assimiler! 
 J’ai aussi revu un peu le code de mon site pour trouver une solution au fait que les méthodes Symfony ne sont pas reconnues, j’essaierais de voir ça ce week-end à tête reposée (et oui le client Symfony est bien installé, j’ai vérifié).
+
+
+## JOUR 22 : PHP
+Aller on reprend doucement!
+
+Aujourd’hui j’ai travaillé un peu de PHP, j’ai fait quelques exercices d’algo. Ça m’a fait du bien de reprendre du temps pour coder un peu. En plus je suis un peu rouillée niveau algorithme donc une piqure de rappel ne fait pas de mal!
+Je vais essayer de reprendre le rythme que j’avais au début (c’est-à-dire coder une fois par jour). 
