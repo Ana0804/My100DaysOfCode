@@ -109,3 +109,9 @@ Aller on reprend doucement!
 
 Aujourd’hui j’ai travaillé un peu de PHP, j’ai fait quelques exercices d’algo. Ça m’a fait du bien de reprendre du temps pour coder un peu. En plus je suis un peu rouillée niveau algorithme donc une piqure de rappel ne fait pas de mal!
 Je vais essayer de reprendre le rythme que j’avais au début (c’est-à-dire coder une fois par jour). 
+
+
+## JOUR 23 : HTML/CSS
+Aujourd’hui, petite session pour commencer à créer une base pour un de mes projets. 
+Une séance de code assez courte parce que Internet n’était pas de mon côté aujourd’hui et comme je suis impatiente ça m’a vite énervé.
+Je me remets dessus demain pour continuer à préparer ce projet! 
