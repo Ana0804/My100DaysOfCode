@@ -115,3 +115,9 @@ Je vais essayer de reprendre le rythme que j’avais au début (c’est-à-dire 
 Aujourd’hui, petite session pour commencer à créer une base pour un de mes projets. 
 Une séance de code assez courte parce que Internet n’était pas de mon côté aujourd’hui et comme je suis impatiente ça m’a vite énervé.
 Je me remets dessus demain pour continuer à préparer ce projet! 
+
+## JOUR 24 : HTLM/CSS
+Aujourd’hui j’ai travaillé à nouveau sur le projet que j’ai commencé hier. 
+Je travaille sur un essai de portfolio. Que le front pour le moment. Je dis « essai » parce que je ne suis pas encore sure qu’il me conviendra quand je l’aurais fini mais je vais essayer de le faire à mon image. 
+J’ai fait pas mal de CSS, une petite centaine de ligne en une soirée.
+
