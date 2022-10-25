@@ -20,14 +20,27 @@ echo('<br>' ."A = " . $A . " B = " . $B . " C = " . $C . '<br>');
 /* Ecrire un algorithme PHP permettant d’échanger les valeurs de deux variables A et B, et ce quel que soit
 leur contenu préalable. Afficher les valeurs de A et B, avant et après. */
 
-$A = "valeur de base A ";
-$B = "valeur de base B ";
+$A = "valeur de A ";
+$B = "valeur de B ";
 
-echo ('avant échange : ' . $A . ' | ' . $B);
+echo ('<p>' . 'Méthode 1' . '</p>' . 'avant échange : ' . '$A = ' . $A . ' | ' . '$B = ' . $B);
 
 [$A, $B] = [$B, $A]; /* Les premiers crochets séléctionnent les variables souhaitées, les deuxièmes crochets indiquent l'ordre dans lequel on veut les afficher, $A devient alors $B et vice versa -> on aurait également pu faire list($A , $B) = array($B , $A) */
 
-echo ('<br>' . 'après échange : ' . $A . ' | ' . $B);
+echo ('<br>' . 'après échange : ' . '$A = ' . $A . ' | ' . '$B = ' . $B);
+
+//OU BIEN
+
+$a = "valeur de a ";
+$b = "valeur de b ";
+
+echo ('<p>' . 'Méthode 2' . '</p>' . 'avant échange : ' . '$a = ' . $a . ' | ' . '$b = ' . $b);
+
+$temp = $a;
+$a = $b;
+$b = $temp;
+
+echo ('<br>' . 'après échange : ' . '$a = ' . $a . ' | ' . '$b = ' . $b);
 
 //exercice 4
 /* Ecrire un algorithme PHP transférant à B la valeur de A, à C la valeur de B et à A la valeur de C, quels que soient le contenu préalable de ces variables. Afficher les valeurs de A, B et C, avant et après. */
@@ -36,18 +49,33 @@ $A = "valeur de A ";
 $B = "valeur de B ";
 $C = "valeur de C ";
 
-echo ('<br>' . 'avant echange : ' . '$A = ' . $A . ' | ' . '$B = ' . $B . ' | ' . '$C = ' . $C);
+echo ('<p>' . 'Méthode 1' . '</p>' . 'avant echange : ' . '$A = ' . $A . ' | ' . '$B = ' . $B . ' | ' . '$C = ' . $C);
 
-[$A, $B, $C] = [$B, $C, $A]; 
+[$B, $C, $A] = [$A, $B, $C]; 
 
 echo ('<br>' . 'après echange : ' . '$A = ' . $A . ' | ' . '$B = ' . $B . ' | ' . '$C = ' . $C);
+
+//OU BIEN
+
+$a = "valeur de a ";
+$b = "valeur de b ";
+$c = "valeur de c ";
+
+echo ('<p>' . 'Méthode 2' . '</p>' . 'avant échange : ' . '$a = ' . $a . ' | ' . '$b = ' . $b . ' | ' . '$c = ' . $c);
+
+$temp = $c;
+$c = $b;
+$b = $a;
+$a = $temp;
+
+echo ('<br>' . 'après échange : ' . '$a = ' . $a . ' | ' . '$b = ' . $b . '|' . '$c = ' . $c);
 
 //exercice 5
 /* Afficher le lien hypertexte « Ecrire à contact@eemi.com » avec la variable $mail = "contact@eemi.com". */
 
 $mail = 'contact@eemi.com';
 
-echo ('<br>' . '<a href="#">' . 'Ecrire à ' . $mail . '</a>');
+echo ('<br> <a href="mailto:'. $mail .'">Ecrire à ' . $mail . '</a>');
 
 //exercice 6
 //Afficher la phrase en gras : « Nous sommes le mercredi 05 avril »
@@ -56,14 +84,17 @@ $string1 = "mercredi" ;
 $num1 = 5 ;
 $string2 = "avril" ;
 
-echo('<br>' . 'Nous sommes le ' . $string1 . ' ' . '0' . $num1 . ' ' . $string2);
+echo('<br> <strong>' . 'Nous sommes le ' . $string1 . ' 0' . $num1 . ' ' . $string2 . '</strong>');
 
 //exercice 7
 //Sans utiliser le caractère ' (simple quote), afficher la phrase « Demain est un "autre" jour. ».
 
+echo("<br>" . "Demain est un \"autre\" jour");
+
 //exercice 8
 /* Créer en PHP une page HTML avec le contenu de votre choix (un lien hypertexte au minimum). Les valeurs du titre de la page, de la couleur de fond de la page et de l’adresse du lien hypertexte seront
 stockées dans des variables. L’encodage sera déterminé par une constante. */
+
 
 $titre = "Ceci est un titre";
 $para = "Ceci est un petit paragraphe pour remplir un peu la page";
@@ -88,5 +119,4 @@ tests suivants :
 $jour = "Nous sommes jeudi";
 
 echo(ucwords($jour));
-
 ?>

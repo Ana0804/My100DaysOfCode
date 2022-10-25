@@ -121,3 +121,7 @@ Aujourd’hui j’ai travaillé à nouveau sur le projet que j’ai commencé hi
 Je travaille sur un essai de portfolio. Que le front pour le moment. Je dis « essai » parce que je ne suis pas encore sure qu’il me conviendra quand je l’aurais fini mais je vais essayer de le faire à mon image. 
 J’ai fait pas mal de CSS, une petite centaine de ligne en une soirée.
 
+
+## JOUR 25 : PHP
+Aujourd'hui j'ai travaillé PHP pour les cours. L'objectif, créer une page HTML en appelant différentes variables pour les diverses éléments de cette page.
+Je suis donc directement partie d'une page HTML en créant par la suite les variables que je voulais appeler dans mon code. Une session de code un peu courte mais la fatigue se fait sentir.  
