@@ -15,9 +15,12 @@
     -webkit-font-smoothing: antialiased;
 }
 
+body{
+    background-color: var(--bgDark);
+}
+
 header {
     background-color: var(--bgDark);
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 73% 94%, 0 100%);
 }
 
 header nav .left a {
@@ -60,7 +63,7 @@ body {
 }
 
 .hero .right {
-    color: var(--bgDark);
+    color: var(--white);
     margin-top: -7rem;
 }
 
@@ -84,6 +87,7 @@ body {
 .hero .right p {
     line-height: 1.9;
     margin-bottom: 2rem;
+    margin-right: 2em;
 }
 
 .flex {
